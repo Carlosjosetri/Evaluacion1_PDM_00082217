@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username">Username</string>
+    <string name="ingresar_usuario">Ingresar Usuario</string>
+    <string name="ingrese_su_correo_electronico">ingrese su correo electronico</string>
+    <string name="senf">send</string>
+</resources>
